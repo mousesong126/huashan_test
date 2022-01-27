@@ -1,8 +1,11 @@
 zhengzongjianf
 wocaishitianxiadiyi
-hhhhhhh
+hhhhhh
 华山最牛B的是我令狐冲，O(∩_∩)O哈哈~！
 不服来干：完全测试的大多数选择
 我是令狐冲，我比岳不群牛掰，O(∩_∩)O哈哈~
 我会独孤九剑 27日 11:28
 哈哈哈你不会！
+
+测试ssh,自动保存密码！
+
