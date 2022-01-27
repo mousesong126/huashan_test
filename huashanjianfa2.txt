@@ -9,3 +9,5 @@ hhhhhh
 
 测试ssh,自动保存密码！
 
+自动ssh可用，我是wangsong126!
+
